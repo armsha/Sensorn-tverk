@@ -1,3 +1,2 @@
 # Sensorn-tverk
-OPJava Lab 3
-jfrwkf
+Sensornätverks-lab OPJava vt2015
